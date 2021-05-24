@@ -1,6 +1,7 @@
 ## Installing Dependencies and run the project
 
 `npm install`
+
 `ng serve`
 
 # Democomponents
